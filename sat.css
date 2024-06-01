@@ -1,0 +1,91 @@
+.sunny{
+    height: 280px;
+    width: 95%;
+    background-color: forestgreen;
+    color: greenyellow;
+    padding-left: 25px;
+    margin-left: 20px;
+    
+}
+
+.sunny button{
+    background-color: forestgreen;
+    color: greenyellow;
+    margin-top: 8px;
+}
+.sunny2{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(20, 238, 165);
+    margin-top: 100px;
+    margin-left: 120px;
+    
+}
+
+.sunny21{
+    padding-left: 13px;
+    text-align: center;
+    margin-top: 69px;
+}
+.sunny3{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(20, 238, 165);
+    margin-top: -220px;
+    margin-left: 500px;
+    
+    
+    
+}
+.sunny31{
+    padding-left: 13px;
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-right: 45px;
+    margin-top: -30px;
+    
+}
+.sunny6{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background-color: rgb(20, 238, 165);
+    margin-top: -220px;
+    margin-left: 950px;
+    margin-bottom: 200px;
+    
+}
+.ant{
+    padding-left: 13px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.sunny61{
+    padding-left: 13px;
+    text-align: center;
+    padding-top: 20px;
+}
+.foot1{
+    background-color: rgb(114, 155, 114);
+    height: 50px;
+    width: 100%;
+    margin-top: -70px;
+}
+.foot2{
+    background-color: forestgreen;
+    height: 20px;
+    width: 25%;
+    text-align: center;
+    padding: 15px;
+    font-weight: bolder;
+    margin-left: 900px;
+    margin-top: 50px;
+
+}
+.image{
+    background-image: url("satpic.jpeg"); height: 100%; width: 100%;
+ }
